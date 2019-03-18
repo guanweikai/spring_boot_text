@@ -1,0 +1,9 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /api
+appKey: 1
+appSecret: 1
+bucket: lynn
+endPoint: https://www.aliyun.com
+
